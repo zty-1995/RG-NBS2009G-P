@@ -9,7 +9,6 @@ login check state = 1
 ## Vulnerability details
 The Ruijie RG-NBS2009G-P switch has an arbitrary user login vulnerability, which allows attackers to gain server privileges and cause the server to crash.
 ## Vulnerability verify
-Case 1
 [(http://61.141.114.15:10034/index.htm)]
 Enter any account and password in the login package, grab and return the package, and set login check state = 1. After modification, you can directly log in to the backend by releasing the package.
 <img width="415" alt="image" src="https://github.com/zty-1995/RG-NBS2009G-P-switch/assets/154293428/3b5a0bd1-a3a1-409c-aafa-f1e44257bca8">
