@@ -29,3 +29,7 @@ http://60.165.53.178:8813/switch.htm
 http://112.242.125.67:2222/switch.htm
 http://60.165.53.178:8812/switch.htm
 http://60.165.53.178:8814/switch.htm
+
+## garbled code for the current email vulnerability discoverer(CVE-2023-51846)
+![any](https://github.com/zty-1995/RG-NBS2009G-P-switch/assets/154293428/feed1969-8abb-4d51-b385-cd09cde36d32)
+
